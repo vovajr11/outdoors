@@ -1,0 +1,39 @@
+@import "../../node_modules/normalize.css/normalize";
+// @import "../../node_modules/slick-carousel/slick/slick";
+// @import "../../node_modules/magnific-popup/dist/magnific-popup.css";
+
+// =========================================================
+//abstracts
+@import "./abstracts/color-mix";
+@import "./abstracts/mixins";
+@import "./abstracts/functions";
+// =========================================================
+//base
+@import "./base/animations";
+@import "./base/base";
+@import "./base/typography";
+@import "./base/untilities";
+// =========================================================
+//components
+@import "./components/bg-video";
+@import "./components/button";
+@import "./components/card";
+@import "./components/composition";
+@import "./components/feature-box";
+@import "./components/form";
+@import "./components/popup";
+@import "./components/story";
+// =========================================================
+//layout
+@import "./layout/footer";
+@import "./layout/grid";
+@import "./layout/header";
+@import "./layout/navigation";
+// =========================================================
+//pages
+@import "./pages/home";
+// =========================================================
+//themes
+//untils
+//vendors
+
